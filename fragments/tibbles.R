@@ -14,6 +14,8 @@ row2 <- tibble( column1 = "2",
 mydataframe <- bind_rows(row1,row2)
 
 # print the contents of this data frame in the console
+mydataframe
+
 # Should show something like this (row numbers ignored) :
 # # A tibble: 2 x 2
 # column1                 column2
