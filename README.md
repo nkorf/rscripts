@@ -1,4 +1,4 @@
-# rscripts
+# Rscripts
 ## _A collection of r fragments for day to day tasks and lab teaching_ 
 
 Nikos Korfiatis (n.korfiatis@uea.ac.uk)
